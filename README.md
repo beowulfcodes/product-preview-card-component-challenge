@@ -23,7 +23,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Links
 
 - Solution URL: [Product Preview Card Component Challenge using Flexbox](https://www.frontendmentor.io/solutions/product-preview-card-component-using-flexbox-PdIDoW5s3c)
-- Live Site URL: [Product Preview Card Component Challenge using FLexbox](https://beowulfcodes.github.io/product-preview-card-component-challenge/)
+- Live Site URL: [Product Preview Card Component Challenge using Flexbox](https://beowulfcodes.github.io/product-preview-card-component-challenge/)
 
 ## My process
 
